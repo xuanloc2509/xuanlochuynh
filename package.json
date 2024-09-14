@@ -1,5 +1,5 @@
 {
-  "name": "Demo",
+  "name": "Demo2",
   "version": "1.0.0",
   "main": "index.js",
   "type": "module",
@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "express": "^4.21.0",
-    "nodemon": "^3.1.4"
+    "index.js": "^0.0.3",
+    "start": "^5.1.0",
+    "type": "^2.7.3"
   }
 }
